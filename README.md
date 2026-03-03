@@ -27,13 +27,13 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Dimononon/mybike-landing-page.git
    ```
 
 2. **Navigate to the project directory**:
 
    ```bash
-   cd layout_landing-page
+   cd mybike-landing-page
    ```
 
 3. **Install dependencies**:
