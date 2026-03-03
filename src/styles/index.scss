@@ -53,7 +53,7 @@
   &__main-to-footer-padding {
     background-color: $main-color--dark;
     margin-bottom: $footer-height--mobile;
-    padding-bottom: 120px;
+    padding-bottom: 60px;
 
     @include on-tablet {
       margin-bottom: $footer-height--tablet;
@@ -61,6 +61,7 @@
 
     @include on-desktop {
       margin-bottom: $footer-height--desktop;
+      padding-bottom: 120px;
     }
   }
 }
